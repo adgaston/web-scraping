@@ -10,3 +10,7 @@ Scraping the following websites for info:
 
 Also created a Flask app that would run the web scraping from above and pass the data into an HTML template to display the data
 * Must run 'mongod' in command line for Flask app to work
+
+Preview of website below:
+
+![WebsiteScreenShot](/Screenshots/WebsiteScreenShot.png)
